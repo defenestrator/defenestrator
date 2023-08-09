@@ -11,4 +11,3 @@
   - I'm interested in everything as a matter of personal policy, don't abuse me; or do, but make it sexy
 - 💻 Coding for fun since 1983
 - 💸 Coding for money since 2003
-@jja-sparq is my jobby job, @schmogramming is my personal org here at GH
