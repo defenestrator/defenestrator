@@ -3,7 +3,7 @@
 ✨ _Jeremy Jacob Anderson_ ✨ can be found here
 - 🤔 Trying to talk sense, generally
   - I am informed that I have to make money or everyone will just let me die
-    - Seems a bit harsh, but I'll play along for now.
+    - Seems a bit harsh, but I'll play along for now
 - 🥦 Working at [Sparq](https://teamsparq.com) in _Cloud_, _DevOps_, _Web_ and _Big Data_
   - 🕴️ Senior Something Fancy Architectinator
     - Job titles tend to be word salad as devoid of meaning as iceberg lettuce is of nutrition.
