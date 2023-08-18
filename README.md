@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho or thereabouts
+I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
 - 🤔 Trying to talk sense, generally
   - I am informed that I have to make money or everyone will just let me die
     - Seems a bit harsh, but I'll play along for now
