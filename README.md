@@ -15,7 +15,7 @@ I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
   - _Svelte_, whatever that is
   - _Laravel_, which isn't even a real word
 - I love fly fishing, reptiles, and music
-- I'm interested in everything as a matter of personal policy
+- I'm interested in everything, as a matter of personal policy
   - don't abuse me; or do, but make it sexy
 - 💻 Coding for fun since 1983
 - 💸 Coding for money since 2003
