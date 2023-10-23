@@ -14,6 +14,7 @@ I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
   - _Terraform_, whatever HCL is
   - _Svelte_, whatever that is
   - _Laravel_, which isn't even a real word
+  - Learning Go, finally, again, and really liking it.
 - I love fly fishing, reptiles, and music
 - I'm interested in everything, as a matter of personal policy
   - don't abuse me; or do, but make it sexy
