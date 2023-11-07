@@ -21,6 +21,6 @@ I am ✨ **Jeremy Jacob Anderson** ✨ usually of Boise, Idaho, or thereabouts
   - Learning Go. The programming language, not the board game.
 - I love fly fishing, reptiles, and music
 - I'm interested in everything, as a matter of personal policy
-  - don't abuse me; or do, but make it sexy
+  - don't abuse me; but if you do, at least make it funny
 - 💻 Coding for fun since 1983
 - 💸 Coding for money since 2003
