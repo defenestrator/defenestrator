@@ -2,7 +2,7 @@
 #### (11/2023)
 
 I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
-- 🤔 Trying to talk sense, generally
+- Out here in meatworld 🤔 trying to talk sense
   - I am informed that I have to make money or everyone will just let me die
     - Seems a bit harsh, but I'll play along for now
 - 🥦 Laid off from [Sparq](https://teamsparq.com) after two years kicking butt in _Cloud_, _DevOps_, _Web_ and _Big Data_
