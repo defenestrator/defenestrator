@@ -1,7 +1,7 @@
 ### Hi there! 👋 *I'm real good at computers and I need a job.* 
 #### (11/2023)
 
-I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
+I am ✨ **Jeremy Jacob Anderson** ✨ usually of Boise, Idaho, or thereabouts
 - Out here in meatworld 🤔 trying to talk sense
   - I am informed that I have to make money or everyone will just let me die
     - Seems a bit harsh, but I'll play along for now
