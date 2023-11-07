@@ -13,8 +13,11 @@ I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
   - _DevOps_, whatever that is
   - _AWS_, whatever that is
   - _Terraform_, whatever HCL is
-  - _Svelte_, whatever that is
-  - _Laravel_, which isn't even a real word
+  - _Svelte_ is compelling, so is _HTMX_.
+    - React and TS are misunderstood and not that great
+  - _Laravel_, which isn't even a real word, is still a good framework
+    - All frameworks are cargo cults. Yes, even the ones that **I** like and your favorites, like Spring Boot or whatever
+      - We should maintain wary mindfulness of that fact when making technology decisions
   - Learning Go. The programming language, not the board game.
 - I love fly fishing, reptiles, and music
 - I'm interested in everything, as a matter of personal policy
