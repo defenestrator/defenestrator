@@ -8,7 +8,7 @@ I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
   - 🕴️ Senior Something Fancy Architectinator
     - Job titles tend to be word salad as devoid of meaning as iceberg lettuce is of nutrition.
 - ⛈️ If you want to chat me up for some reason, I'm a sucker for clouds (and hydrology, generally):
-  - Distributed computing solutions design and cloud engineering
+  - Distributed computing solutions design and cloud-native application engineering specialist
   - _DevOps_, whatever that is
   - _AWS_, whatever that is
   - _Terraform_, whatever HCL is
