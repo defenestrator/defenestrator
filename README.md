@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 *I'm real good at computers* and I need a job.
 
 I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
 - 🤔 Trying to talk sense, generally
