@@ -5,7 +5,7 @@ I am ✨ _Jeremy Jacob Anderson_ ✨ usually of Boise, Idaho, or thereabouts
 - 🤔 Trying to talk sense, generally
   - I am informed that I have to make money or everyone will just let me die
     - Seems a bit harsh, but I'll play along for now
-- 🥦 Left [Sparq](https://teamsparq.com) after two years kicking butt in _Cloud_, _DevOps_, _Web_ and _Big Data_
+- 🥦 Laid off from [Sparq](https://teamsparq.com) after two years kicking butt in _Cloud_, _DevOps_, _Web_ and _Big Data_
   - 🕴️ Senior Something Fancy Architectinator
     - Job titles in tech are often as devoid of meaning as iceberg lettuce is of nutrition.
 - ⛈️ If you want to chat me up for some reason, I'm a sucker for clouds (and hydrology, generally):
