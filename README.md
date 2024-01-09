@@ -15,7 +15,7 @@ Howdy, I'm ✨ **Jeremy Jacob Anderson** ✨ usually of Boise, Idaho, or thereab
   - _Svelte_ is compelling, so is _HTMX_.
     - React and TypeScript are misunderstood and not really all that great
   - _Laravel_, which isn't even a real word, is still a good framework
-    - All frameworks are cargo cults. Yes, even the ones that **I** like, and your favorites like...Spring Boot or whatever
+    - All frameworks are cargo cults. Yes, even the ones that **I** like, and your favorites like Spring Boot or whatever
       - We should maintain wary mindfulness of that fact when making technology decisions
   - Learning Go. The programming language, not the board game.
 - I love fly fishing, reptiles, and music
