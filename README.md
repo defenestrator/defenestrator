@@ -1,7 +1,4 @@
-### Hi there! 👋 *I'm 🔥, and I deliver* 
-#### (11/2023)
-
-I am ✨ **Jeremy Jacob Anderson** ✨ usually of Boise, Idaho, or thereabouts
+Howdy, I'm ✨ **Jeremy Jacob Anderson** ✨ usually of Boise, Idaho, or thereabouts
 - Out here in meatworld 🤔 trying to talk sense
   - I am informed that I have to make money or everyone will just let me die
     - Seems a bit harsh, but I'll play along for now
