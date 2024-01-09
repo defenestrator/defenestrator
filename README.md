@@ -1,4 +1,4 @@
-### Hi there! 👋 *I'm real good at computers and I need a job.* 
+### Hi there! 👋 *I'm :fire, and I deliver* 
 #### (11/2023)
 
 I am ✨ **Jeremy Jacob Anderson** ✨ usually of Boise, Idaho, or thereabouts
