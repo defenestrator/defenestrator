@@ -1,4 +1,4 @@
-### Hi there! 👋 *I'm :fire, and I deliver* 
+### Hi there! 👋 *I'm 🔥, and I deliver* 
 #### (11/2023)
 
 I am ✨ **Jeremy Jacob Anderson** ✨ usually of Boise, Idaho, or thereabouts
