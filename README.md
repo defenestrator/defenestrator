@@ -6,8 +6,8 @@ Howdy, I'm **Jeremy Jacob Anderson** usually of Boise, Idaho, or thereabouts
   - Senior Something Fancy Architectinator
     - Job titles in tech are often as devoid of meaning as iceberg lettuce is of nutrition
 - Co-founder and engineering 👑 at [EDOS](https://edos.io)
-- ⛈️ If you want to chat me up for some reason, I'm a sucker for clouds (and hydrology, generally):
-  - Specialist in cloud-native application design
+- ⛈️ I'love all of the clouds (and hydrology, generally)
+- Cloud-native application architecture specialist
   - _DevOps_, whatever that is
   - _AWS_, whatever that is
   - _Terraform_, whatever HCL is
