@@ -18,7 +18,7 @@ Howdy, I'm **Jeremy Jacob Anderson**, from Boise, Idaho.
       - We should maintain wary mindfulness of that fact when making technology decisions
   - Currently working on Go, Terraform, and AI-assisted development tools
 - I love fly fishing, reptiles, and music
-- Job titles in tech are often devoid of meaning
+- Job titles are often devoid of meaning
 - I'm interested in everything, as a matter of personal policy
 -   Please don't abuse me; but if you do, at least make it funny
 - 💻 Coding for fun since 1983
