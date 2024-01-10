@@ -10,14 +10,15 @@ Howdy, I'm **Jeremy Jacob Anderson** usually of Boise, Idaho, or thereabouts
 - Cloud-native application architecture specialist
   - _DevOps_, whatever that is
   - _AWS_, whatever that is
-  - _Terraform_, whatever HCL is
-  - ❄️ Snowflake Data Cloud ❄️
-  - [Turso](https://turso.tech/deeznuts)!
+  - _[Terraform](https://www.terraform.io/)_, whatever HCL is
+  - ❄️ [Snowflake Data Cloud](https://www.snowflake.com/en/) ❄️
+  - [Turso](https://turso.tech/)!
     -   Be an edgelord, get that **µsecond** latency!
-  - _Svelte_ is compelling, so is _HTMX_.
+  - _[Svelte](https://svelte.dev/)_ is compelling, so is _[htmx](https://htmx.org/)_.
     - React and TypeScript are misunderstood and not really all that great
-  - _Laravel_, which isn't even a real word, is still a good framework
-    - All frameworks are cargo cults. Yes, even the ones that **I** like, and your favorites like Spring Boot or whatever
+  - _[Laravel](https://laravel.com/)_, which isn't even a real word, is still a good framework
+    - All frameworks are cargo cults.
+    -   Yes, even the ones that **I** like, and your favorites like Spring Boot or whatever
       - We should maintain wary mindfulness of that fact when making technology decisions
   - Learning Go. The programming language, not the board game.
 - I love fly fishing, reptiles, and music
