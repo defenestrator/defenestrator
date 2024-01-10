@@ -14,7 +14,7 @@ Howdy, I'm **Jeremy Jacob Anderson** usually of Boise, Idaho, or thereabouts
   - [Turso](https://turso.tech/)
     -   Be an edgelord, get that **µsecond** latency
   - _[Svelte](https://svelte.dev/)_ is compelling, so is _[htmx](https://htmx.org/)_.
-    - React and TypeScript are misunderstood and not really all that great
+    - React and TypeScript are not really all that great, let's talk about that.
   - _[Laravel](https://laravel.com/)_, which isn't even a real word, is still a good framework
     - All frameworks are cargo cults
     -   Yes, even the ones that **I** like, and your favorites like Spring Boot or whatever
