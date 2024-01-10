@@ -11,7 +11,7 @@ Howdy, I'm **Jeremy Jacob Anderson** usually of Boise, Idaho, or thereabouts
   - _DevOps_, whatever that is
   - _AWS_, whatever that is
   - _[Terraform](https://www.terraform.io/)_, whatever HCL is
-  - ❄️ [Snowflake Data Cloud](https://www.snowflake.com/en/) ❄️
+  - [Snowflake Data Cloud](https://www.snowflake.com/en/) ❄️
   - [Turso](https://turso.tech/)!
     -   Be an edgelord, get that **µsecond** latency!
   - _[Svelte](https://svelte.dev/)_ is compelling, so is _[htmx](https://htmx.org/)_.
