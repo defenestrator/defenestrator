@@ -3,8 +3,7 @@ Howdy, I'm **Jeremy Jacob Anderson** usually of Boise, Idaho, or thereabouts
   - I am informed that I have to make money or everyone will just let me die
     - Seems a bit harsh, but I'll play along for now
 - Separated from [Sparq](https://teamsparq.com) after two years kicking butt in _Cloud_, _DevOps_, _Web_ and _Big Data_
-  - Senior Something Fancy Architectinator
-    - Job titles in tech are often as devoid of meaning as iceberg lettuce is of nutrition
+  - Job titles in tech are devoid of meaning, too often.
 - Co-founder and engineering 👑 at [EDOS](https://edos.io)
 - ⛈️ I love all of the clouds (and hydrology, generally)
 - Cloud-native application architecture specialist
