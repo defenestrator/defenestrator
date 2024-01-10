@@ -17,11 +17,11 @@ Howdy, I'm **Jeremy Jacob Anderson** usually of Boise, Idaho, or thereabouts
     - React and TypeScript are a mess, let's talk about that.
   - _[Laravel](https://laravel.com/)_, which isn't even a real word, is still a good framework
     - All frameworks are cargo cults
-    -   Yes, even the ones that **I** like, and your favorites like Spring Boot or whatever
+    -   Yes, even the ones that **I** like, and your favorites like Spring Boot, or...
       - We should maintain wary mindfulness of that fact when making technology decisions
-  - Learning Go. The programming language, not the board game.
+  - Currently working on Go, Terraform, and AI-assisted development tools.
 - I love fly fishing, reptiles, and music
 - I'm interested in everything, as a matter of personal policy
-  - don't abuse me; but if you do, at least make it funny
+-   Please don't abuse me; but if you do, at least make it funny
 - 💻 Coding for fun since 1983
 - 💸 Coding for money since 2003
